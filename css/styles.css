@@ -1,0 +1,13 @@
+.recherche{
+    margin-top: 200px;
+}
+
+.result{
+    margin-top: -15px;
+}
+
+
+.highlighted{
+    background-color: #2BA6CB;
+    color: #FFF;
+}
